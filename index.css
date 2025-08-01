@@ -45,9 +45,9 @@ a:hover{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: small;
-    margin-left: 325px;
+    margin-left: 50%;
     position: absolute;
-    top: 90px;
+    top: 78%;
 } 
 #a{
     height: 50px;
@@ -64,5 +64,11 @@ a{
     text-decoration: none;
     font-size:small;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Pic{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    margin-top: 40px;
 }
 }
