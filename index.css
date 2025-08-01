@@ -1,5 +1,9 @@
 body{
     background-color: rgb(247, 1, 42);
+    width: 100%;
+}
+*{
+    box-sizing: border-box;
 }
 #Ab{
     color: white;
@@ -44,8 +48,6 @@ a:hover{
  #Ab{
      margin-top: 50px;
     color: white;
-     position: absolute;
-    top: 78%;
     font-size: small;
 } 
 #a{
